@@ -16,3 +16,4 @@ const randomSentence = ['The', randomItem(animal), randomItem(animal), randomIte
 randomItem(adjective), randomItem(noun), randomItem(conjunctions), 'it', randomItem(verb) + 's', 'the', randomItem(adjective), 
 randomItem(noun)]
 console.log(randomSentence.join(' ') + '.');
+// to come: html file
